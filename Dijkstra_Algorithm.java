@@ -1,6 +1,6 @@
 package company.Java;
 import java.util.*;
-public class Dijkstras_Algorithm {
+public class Dijkstra_Algorithm {
     static class Edge{
         int src;
         int dest;
