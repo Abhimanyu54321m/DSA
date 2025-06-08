@@ -21,7 +21,7 @@ public class DP_fib {
         return dp[n];
     }
     public static void main(String[] args) {
-        int n = 5;
+        int n = 100;
         int f[] = new int[n+1];
         System.out.println(fibTabulation(n));
     }
